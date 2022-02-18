@@ -13,3 +13,6 @@ nvidia/cuda:11.3.1-cudnn8-devel-ubi7
 nvidia/cuda:11.3.1-cudnn8-devel-centos8
 
 nvidia/cuda:11.3.1-cudnn8-devel-centos7
+
+pytorch/pytorch:1.10.0-cuda11.3-cudnn8-devel
+
